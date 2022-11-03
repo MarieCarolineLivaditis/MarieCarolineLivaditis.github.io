@@ -11,4 +11,4 @@ kramdown:
 
 # Build settings
 markdown: kramdown
-remote-theme: daattali/beautiful-jekyll
+remote-theme: ddaattali/beautiful-jekyll@5.0.0
