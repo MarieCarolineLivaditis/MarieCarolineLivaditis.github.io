@@ -1,6 +1,6 @@
-title: My Website
-url: https://mariecarolinelivaditis.github.io/
+#title: My Website
+#url: https://mariecarolinelivaditis.github.io/
 
 # Build settings
-markdown: kramdown
-remote-theme: ddaattali/beautiful-jekyll@5.0.0
+#markdown: kramdown
+#remote-theme: ddaattali/beautiful-jekyll@5.0.0
