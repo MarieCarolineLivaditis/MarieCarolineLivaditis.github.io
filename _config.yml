@@ -4,4 +4,4 @@ url: https://mariecarolinelivaditis.github.io/
 # Build settings
 markdown: kramdown
 # remote-theme: ddaattali/beautiful-jekyll@5.0.0
-theme: cayman
+theme: minima
