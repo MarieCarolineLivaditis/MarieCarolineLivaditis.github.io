@@ -1,6 +1,9 @@
+title: My Website
+url: https://mariecarolinelivaditis.github.io/
+
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: MarieCarolineLivaditis.github.io
 incremental: false
 highlighter: rouge
 gist:
@@ -11,4 +14,5 @@ kramdown:
 
 # Build settings
 markdown: kramdown
-remote-theme: ddaattali/beautiful-jekyll@5.0.0
+# remote-theme: ddaattali/beautiful-jekyll@5.0.0
+theme: cayman
